@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(to right, rgb(22, 22, 22), rgb(105, 103, 103));
+    text-align: center;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 40%;
+    height: 60%;
+    border-radius: 20%;
+}
+h1{
+    font-family: cursive;
+    font-size: 300%;
+    padding: 0%;
+}
+pre{
+    font-size: large;
+    font-family: cursive;
+    background-color: wheat;
+}
+div.paragh{
+    width: 70%;
+}
+footer{
+    background-color: rgb(151, 149, 149);
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+    color: red;
+
+}
+footer:hover{
+    background-color: seagreen;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: snow;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+td{
+    padding: 2%;
+}
+
+
