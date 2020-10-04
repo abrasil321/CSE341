@@ -1,0 +1,59 @@
+#topMenu{
+    display: flex;
+    flex-direction: row;
+    background-image: linear-gradient(to bottom, rgb(87, 84, 84), white);
+}  
+#menu1{
+    padding: 1%;
+    color: white;
+} 
+#menu2{
+    padding-left: 82%;
+    padding-bottom: 6%;
+    padding-top: 1%;
+    color: white;
+} 
+#divs{
+    width: 99%;
+    margin-left: 6%;
+}
+body{
+    width: 99%;
+}
+#page{
+    display: flex;
+    flex-direction: row;
+}
+a{
+    color: tomato;
+}
+a:hover{
+    color: turquoise;
+}
+header{
+    background-color: rgb(41, 58, 202);
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+}
+img{
+    height: 70%;
+    width: 50%;
+    padding: 2%;
+    border-radius: 10%;
+}
+label{
+    font-size: small;
+}
+.firstIMG{
+    flex-direction: column;
+}
+.flexContainer2{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+}
